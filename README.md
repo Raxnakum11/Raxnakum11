@@ -3,8 +3,9 @@
 
 # 💫 About Me:
 
-<h3 align="center">🚀 Computer Science Engineer | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🧩 Competitive Programmer</h3><br>🔭 I’m currently working on HealConnect - Smart clinic and camp manager software.<br><br>🌱 I’m currently learning mern stack, mobile application development also solving problems of data structure and algorithms for improving problem solving skill.<br><br>- 📫 How to reach me: 
-[Email Me](nakumraxeet@gmail.com)
+<h3 align="center">🚀 Computer Science Engineer | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🧩 Competitive Programmer</h3><br>🔭 I’m currently working on HealConnect - Smart clinic and camp manager software.<br><br>🌱 I’m currently learning mern stack, mobile application development also solving problems of data structure and algorithms for improving problem solving skill.<br><br>- 
+📫 How to reach me: 
+![Email Me](https//:nakumraxeet@gmail.com)
 <br><br>⚡ Fun fact I love playing chess and listening music in my free time!
 
 
