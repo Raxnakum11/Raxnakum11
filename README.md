@@ -71,14 +71,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxnakum11&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </p>
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raxnakum11&theme=tokyonight&no-frame=true"/>
-</p>
-
 ---
 
 ## 👀 Profile Views
