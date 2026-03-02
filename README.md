@@ -64,11 +64,7 @@
 
 <p align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Raxnakum11&theme=tokyonight&show_icons=true&hide_border=true"/> -->
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Raxnakum11&theme=tokyonight&hide_border=true"/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxnakum11&theme=tokyonight&hide_border=true&layout=compact"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raxnakum11&theme=tokyonight&hide_border=true" />
 
 </p>
 
