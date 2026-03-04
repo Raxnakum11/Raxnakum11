@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raxeet Nakum</h1>
 
 <h3 align="center">
-🚀 Computer Science Engineer | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🧩 Competitive Programmer
-</h3>
+🚀 Computer Science Engineer | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🧩 Problem Solver</h3>
 
 ---
 
