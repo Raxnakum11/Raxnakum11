@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Raxeet Nakum</h1>
 
 <h3 align="center">
-🚀 Computer Science Engineer | 💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🧩 Problem Solver</h3>
+🚀 Computer Science Engineer | 💻 Web Developer | 🛡️ Machine Learning | 🧩 Problem Solver</h3>
 
 ---
 
 ## 💫 About Me
 
 - 🔭 I’m currently working on **HealConnect – Smart Clinic & Camp Management Software**
-- 🌱 I’m learning **MERN Stack**, **Cybersecurity**, and improving my **Data Structures & Algorithms**
+- 🌱 I’m learning **MERN Stack**, **Cybersecurity** and **Machine Learning** improving my **Data Structures & Algorithms**
 - 👨‍💻 All my projects are available on GitHub: https://github.com/Raxnakum11
 - 📫 How to reach me: **nakumraxeet@gmail.com**
 - ⚡ Fun fact: I love playing **Chess ♟️** and listening to **Music 🎧**
