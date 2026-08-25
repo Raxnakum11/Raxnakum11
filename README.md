@@ -1,98 +1,164 @@
 <h1 align="center">Hi 👋, I'm Raxeet Nakum</h1>
 
 <h3 align="center">
-🚀 Computer Science Engineer | 💻 Web Developer | 🤖 Machine Learning | 🧩 Problem Solver
+💻 Computer Science Engineer &nbsp;|&nbsp; 🌐 Web Developer &nbsp;|&nbsp; 🤖 Machine Learning &nbsp;|&nbsp; 🧩 Problem Solver
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Computer+Science+Engineer;Web+Developer;Machine+Learning+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raxnakum11&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Raxnakum11?style=for-the-badge&label=Followers" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **HealConnect – Smart Clinic & Camp Management Software**
-- 🌱 I’m learning **MERN Stack** and **Machine Learning**, while improving my **Data Structures & Algorithms**
-- 👨‍💻 All my projects are available here:  👉 <a href="https://github.com/Raxnakum11">GitHub Profile</a>
-- 📫 Reach me at: **nakumraxeet@gmail.com**
-- ⚡ Fun fact: I love playing **Chess ♟️** and listening to **Music 🎧**
+* 👨‍💻 Computer Science Engineer passionate about technology and software development
+* 🌐 Interested in **Web Development**
+* 🤖 Exploring **Machine Learning**
+* 🧩 Enjoy solving programming and algorithmic problems
+* 📚 Always learning new technologies and improving my skills
+* ♟️ I enjoy playing **Chess**
+* 🎧 I love listening to **Music**
+
+<br clear="right"/>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/raxeet-nakum-5292a72a0" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+<p align="center">
+
+<a href="https://github.com/Raxnakum11">
+<img src="https://img.shields.io/badge/GitHub-Raxnakum11-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/raxeet-nakum-5292a72a0">
+<img src="https://img.shields.io/badge/LinkedIn-Raxeet%20Nakum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nakumraxeet@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-nakumraxeet%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+### 👨‍💻 Programming Languages
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raxnakum11&show_icons=true&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raxnakum11&theme=tokyonight" />
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxnakum11&layout=compact&theme=tokyonight" />
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 👀 Profile Views
+### 📱 Mobile Development
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Raxnakum11&color=blue&style=flat-square"/>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raxnakum11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxnakum11&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raxnakum11&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raxnakum11&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raxnakum11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+# 🐍 My Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raxnakum11/Raxnakum11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 📌 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raxnakum11&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+# ✍️ Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 💭 Developer Mindset
+
+<p align="center">
+
+```text
+Learn → Build → Break → Debug → Improve → Repeat 🚀
+```
+
 </p>
 
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/Raxnakum11">Raxeet Nakum</a>
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing. 🚀</i>
 </p>
 
