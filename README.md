@@ -88,12 +88,16 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raxnakum11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxnakum11&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raxnakum11&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Raxnakum11&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Raxeet's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxnakum11&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 ---
