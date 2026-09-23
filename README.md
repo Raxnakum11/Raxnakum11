@@ -92,9 +92,9 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raxnakum11&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raxnakum11&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raxnakum11&theme=radical&hide_border=true&background=0a0a0f&ring=A855F7&fire=9333EA&currStreakLabel=A855F7&sideLabels=c4b5fd&dates=c4b5fd"/>
+</div>
 
 ---
 
